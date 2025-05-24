@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hi hello
 hi
+=======
+
+local
+>>>>>>> 835e920 (r1 created)
